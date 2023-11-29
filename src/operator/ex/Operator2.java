@@ -14,6 +14,8 @@ public class Operator2 {
         System.out.println(result2);
 
         // 문자열과 숫자 더하기 1
+        // 자바는 문자열인 String 타입에 다른 타입을 더하는 경우 대상 타입을 문자열로 변경한다. 쉽게 이야기해서 문자열에
+        // 더하는 것은 다 문자열이 된다
         String result3 = "a + b = " + 10;
         System.out.println(result3);
 
