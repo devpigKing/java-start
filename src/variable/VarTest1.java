@@ -1,6 +1,6 @@
 package variable;
 
-public class Test1 {
+public class VarTest1 {
     public static void main(String[] args) {
         int num1 = 4;
         int num2 = 3;
