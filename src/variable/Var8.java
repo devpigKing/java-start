@@ -12,7 +12,7 @@ public class Var8 {
 
         //실수
         float f = 10.0f;
-        double d = 10.0;
+        double d = 10.0; // 실무에서는 기본이 double이다.
 
         System.out.println(b);
         System.out.println(s);
